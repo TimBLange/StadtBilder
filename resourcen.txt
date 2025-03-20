@@ -1,0 +1,2 @@
+.NET library für SDF conversion
+https://github.com/praeclarum/SdfKit
